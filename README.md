@@ -1,4 +1,4 @@
-# 8-bit ALU-Based CPU (Verilog)
+# OPBIT - 8-bit ALU-Based CPU
 
 A beginner-friendly Verilog project for an 8-bit ALU-based CPU architecture, intended for simulation and FPGA development.
 
